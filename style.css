@@ -35,3 +35,26 @@ button {
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
 }
+#list{
+  width: auto;
+  display: inline-block;
+}
+
+#edit-task-form{
+  display:none;
+}
+.task-line {
+  display: inline;
+}
+
+.high-priority {
+  color: red;
+}
+
+.med-priority {
+  color: #FAAF00;
+}
+
+.low-priority{
+  color: #49B700;
+}
